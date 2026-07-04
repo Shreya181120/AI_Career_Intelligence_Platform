@@ -131,11 +131,6 @@ AI_Career_Intelligence_Platform
 
 # 📸 Application Screenshots
 
-Add screenshots inside the **screenshots** folder and reference them here.
-
-```
-# 📸 Application Screenshots
-
 ## 🏠 Home Page
 
 ![Home Page](home_page.png)
@@ -145,12 +140,6 @@ Add screenshots inside the **screenshots** folder and reference them here.
 ## 📄 Resume Analyzer
 
 ![Resume Analyzer](resume_analyzer.png)
-
----
-
-## 🤖 AI Resume Feedback
-
-![Resume Feedback](resume_feedback.png)
 
 ---
 

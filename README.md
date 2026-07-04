@@ -133,17 +133,48 @@ AI_Career_Intelligence_Platform
 
 Add screenshots inside the **screenshots** folder and reference them here.
 
-Example:
-
 ```
-screenshots/
-│
-├── home.png
-├── resume_analyzer.png
-├── career_mentor.png
-├── project_advisor.png
-├── interview_coach.png
-└── dashboard.png
+# 📸 Application Screenshots
+
+## 🏠 Home Page
+
+![Home Page](home_page.png)
+
+---
+
+## 📄 Resume Analyzer
+
+![Resume Analyzer](resume_analyzer.png)
+
+---
+
+## 🤖 AI Resume Feedback
+
+![Resume Feedback](resume_feedback.png)
+
+---
+
+## 🎯 Career Mentor
+
+![Career Mentor](career_mentor.png)
+
+---
+
+## 💻 Project Advisor
+
+![Project Advisor](project_advisor.png)
+
+---
+
+## 🎤 Interview Coach
+
+![Interview Coach](interview_coach.png)
+
+---
+
+## 📊 Dashboard
+
+![Dashboard](dashboard.png)
 ```
 
 ---

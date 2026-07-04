@@ -114,17 +114,23 @@ AI_Career_Intelligence_Platform
 │   ├── Dashboard
 │   └── Interview Coach
 │
-├── utils
-│   ├── granite_api.py
-│   ├── ai_services.py
-│   ├── resume_parser.py
-│   ├── resume_analyzer.py
-│   └── project_recommender.py
+└── utils
+    ├── granite_api.py
+    ├── ai_services.py
+    ├── resume_parser.py
+    ├── resume_analyzer.py
+    └── project_recommender.py
 ```
 
 ---
 
 # 📸 Application Screenshots
+
+## 🏠 Landing Page
+
+![Landing Page](home_page.png)
+
+---
 
 ## 📄 Resume Analyzer
 

@@ -185,7 +185,7 @@ https://drive.google.com/your-demo-link
 Clone the repository
 
 ```bash
-git clone https://github.com/Shreya181120/AI_Career_Intelligence_Platform/tree/main
+git clone https://github.com/Shreya181120/AI_Career_Intelligence_Platform
 ```
 
 Go to project folder

@@ -11,7 +11,6 @@ The AI Career Intelligence Platform assists students and job seekers by providin
 Users can:
 
 - 📄 Analyze their resume
-- 🤖 Get AI-powered resume feedback
 - 🎯 Receive a personalized career roadmap
 - 💻 Get AI-recommended portfolio projects
 - 🎤 Practice technical interview questions

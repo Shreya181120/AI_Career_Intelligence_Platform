@@ -130,7 +130,7 @@ AI_Career_Intelligence_Platform
 
 # 📸 Application Screenshots
 
-## 🏠 Home Page
+## 🏠 Landing Page
 
 ![Home Page](home_page.png)
 

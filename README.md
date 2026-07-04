@@ -120,52 +120,65 @@ AI_Career_Intelligence_Platform
 │   ├── resume_parser.py
 │   ├── resume_analyzer.py
 │   └── project_recommender.py
-│
-├── screenshots
-├── assets
-└── database
 ```
 
 ---
 
 # 📸 Application Screenshots
 
-## 🏠 Landing Page
-
-![Home Page](home_page.png)
-
----
-
 ## 📄 Resume Analyzer
 
-![Resume Analyzer](resume_analyzer.png)
+### Resume Analysis
+
+![Resume Analyzer - 1](resume_analyzer_1.png)
+
+### AI Resume Feedback
+
+![Resume Analyzer - 2](/resume_analyzer_2.png)
 
 ---
 
 ## 🎯 Career Mentor
 
-![Career Mentor](career_mentor.png)
+### AI Career Roadmap
+
+![Career Mentor - 1](career_mentor_1.png)
+
+### Learning Plan & Success Tips
+
+![Career Mentor - 2](career_mentor_2.png)
 
 ---
 
 ## 💻 Project Advisor
 
-![Project Advisor](project_advisor.png)
+### AI Project Recommendations
 
----
+![Project Advisor - 1](project_advisor_1.png)
 
-## 🎤 Interview Coach
+### Additional Recommended Projects
 
-![Interview Coach](interview_coach.png)
+![Project Advisor - 2](project_advisor_2.png)
 
 ---
 
 ## 📊 Dashboard
 
-![Dashboard](dashboard.png)
-```
+### Dashboard Overview
+
+![Dashboard - 1](dashboard_1.png)
+
+### Progress & Analytics
+
+![Dashboard - 2](/dashboard_2.png)
 
 ---
+
+## 🎤 Interview Coach
+
+### AI Interview Evaluation
+
+![Interview Coach](interview_coach.png)
 
 # 🎥 Demo Video
 

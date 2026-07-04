@@ -188,7 +188,7 @@ AI_Career_Intelligence_Platform
 
 # 🎥 Demo Video
 
-https://youtu.be/utQki9pAFpM
+https://youtu.be/fAYrSIg56pI
 
 ---
 

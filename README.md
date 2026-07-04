@@ -170,13 +170,7 @@ AI_Career_Intelligence_Platform
 
 # 🎥 Demo Video
 
-Demo Video:
-
-(Add your Google Drive or YouTube link here)
-
-Example:
-
-https://drive.google.com/your-demo-link
+https://youtu.be/utQki9pAFpM
 
 ---
 
